@@ -368,7 +368,28 @@ Full-Width Styles
   background: #212121;
 }
 
+#project_title {
+  margin: 0;
+  color: #fff;
+  font-size: 42px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
 
+#project_tagline {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 300;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+}
+
+.project_id {
+  color: #f2f2f2;
+  font-size: 16px;
+  font-weight: 300;
+  background: none;
+}
 
 /*******************************************************************************
 Small Device Styles
